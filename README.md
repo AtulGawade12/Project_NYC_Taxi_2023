@@ -45,6 +45,5 @@ This document outlines the end-to-end data engineering pipeline for processing N
 * *Tool:* Power BI
 * *Connection:* Connected ADLS storage to Power BI using Databricks.
 * *Dashboards:* Created interactive dashboards to visualize key metrics and insights from the NYC Taxi data:
-  
-![image](https://github.com/user-attachments/assets/d271f27c-cab8-49ce-ba16-4d5dc3b50c08)
+
 
